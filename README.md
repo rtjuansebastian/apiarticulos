@@ -1,5 +1,7 @@
 # README
 
+API construida en Ruby On Rails como ejemplo para el curso FULL STACK Piensa digital de fedesoft
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
